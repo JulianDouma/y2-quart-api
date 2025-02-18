@@ -1,0 +1,6 @@
+api_platform:
+    graphql:
+        enabled: true
+        default_ide: graphql_playground
+        graphiql:
+            enabled: false
